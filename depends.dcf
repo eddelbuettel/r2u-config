@@ -1,6 +1,6 @@
 curl: libcurl4-openssl-dev
 nloptr: cmake
-XML: libxml2
+XML: libxml2-dev
 RPostgres: libpq-dev
 RcppGSL: libgsl-dev
 rgl: libglu-dev libgl-dev
