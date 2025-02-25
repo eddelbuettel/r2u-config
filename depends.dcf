@@ -6,6 +6,7 @@ xml2: libxml2-dev
 s2: libssl-dev
 openssl: libssl-dev
 systemfonts: libfontconfig1-dev libfreetype-dev
+ragg: libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev 
 textshaping: libharfbuzz-dev libfribidi-dev 
 RPostgres: libpq-dev
 RcppGSL: libgsl-dev
