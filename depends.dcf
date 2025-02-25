@@ -4,7 +4,8 @@ XML: libxml2-dev
 RCurl: libcurl4-openssl-dev
 xml2: libxml2-dev
 s2: libssl-dev
-openssl: libssl-dev 
+openssl: libssl-dev
+systemfonts: libfontconfig1-dev libfreetype-dev
 RPostgres: libpq-dev
 RcppGSL: libgsl-dev
 rgl: libglu-dev libgl-dev
