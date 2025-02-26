@@ -293,3 +293,5 @@ BayesChange: libgsl-dev
 flint: libgmp-dev libmpfr-dev libflint-dev
 pak: libcurl4-openssl-dev
 sysfonts: libfreetype6-dev
+PKI: libssl-dev
+
