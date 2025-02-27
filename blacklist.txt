@@ -115,6 +115,8 @@ SQLFormatteR
 #
 # BioC not yet ready for arm64
 restfulr
+PerfMeas
+jointseg
 # Windows only
 excel.link
 # "Random" build issue on arm64
