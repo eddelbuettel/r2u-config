@@ -297,3 +297,4 @@ PKI: libssl-dev
 showtext: libfreetype6-dev
 Rmpfr: libgmp-dev libmpfr-dev
 websocket: libssl-dev
+nanonext: cmake
