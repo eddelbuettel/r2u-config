@@ -300,3 +300,4 @@ websocket: libssl-dev
 nanonext: cmake
 tiff: libtiff-dev
 webp: libwebp-dev
+rcdd: libgmp-dev
