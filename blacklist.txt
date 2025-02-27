@@ -117,6 +117,7 @@ SQLFormatteR
 restfulr
 PerfMeas
 jointseg
+rlibkriging
 # Windows only
 excel.link
 # "Random" build issue on arm64
