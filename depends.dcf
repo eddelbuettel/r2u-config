@@ -6,7 +6,7 @@ xml2: libxml2-dev
 s2: libssl-dev
 openssl: libssl-dev
 systemfonts: libfontconfig1-dev libfreetype-dev
-ragg: libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev 
+ragg: libfreetype6-dev libpng-dev libtiff-dev libjpeg-dev 
 textshaping: libharfbuzz-dev libfribidi-dev 
 gmp: libgmp-dev
 RPostgres: libpq-dev
@@ -298,3 +298,4 @@ showtext: libfreetype6-dev
 Rmpfr: libgmp-dev libmpfr-dev
 websocket: libssl-dev
 nanonext: cmake
+tiff: libtiff-dev
