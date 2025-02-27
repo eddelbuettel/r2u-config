@@ -42,7 +42,7 @@ ridge: libgsl-dev
 fftw: libfftw3-dev 
 RQuantLib: libquantlib0-dev
 archive: libarchive-dev
-cld3: libprotobuf-dev
+cld3: protobuf-compiler protobuf-c-compiler libprotobuf-dev libprotobuf-c-dev
 xslt: libxslt1-dev
 cit: libgsl-dev
 mvabund: libgsl-dev
