@@ -299,3 +299,4 @@ Rmpfr: libgmp-dev libmpfr-dev
 websocket: libssl-dev
 nanonext: cmake
 tiff: libtiff-dev
+webp: libwebp-dev
