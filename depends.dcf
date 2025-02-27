@@ -296,3 +296,4 @@ sysfonts: libfreetype6-dev
 PKI: libssl-dev
 showtext: libfreetype6-dev
 Rmpfr: libgmp-dev libmpfr-dev
+websocket: libssl-dev
