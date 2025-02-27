@@ -305,4 +305,6 @@ strawr: libcurl4-openssl-dev
 symengine: cmake libgmp-dev libmpfr-dev
 JavaGD: default-jdk
 salso: cargo rustc
-
+RcppAlgos: libgmp-dev
+arrangements: libgmp-dev
+RcppCWB: libglib2.0-dev
