@@ -31,7 +31,7 @@ proj4: libproj-dev
 runjags: jags
 topicmodels: libgsl-dev
 hdf5r: libhdf5-dev
-protolite: libprotobuf-dev
+protolite: protobuf-compiler protobuf-c-compiler libprotobuf-dev libprotobuf-c-dev
 RMariaDB: libmysqlclient-dev
 fftwtools: libfftw3-dev
 keyring: libsecret-1-dev
