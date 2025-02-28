@@ -314,3 +314,5 @@ RAppArmor: libapparmor-dev
 watcher: cmake
 RcppAPT: libapt-pkg-dev
 XBRL: libxml2-dev
+mongolite: libssl-dev libsasl2-dev
+
