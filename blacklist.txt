@@ -131,4 +131,6 @@ Rblpapi
 RAppArmor
 # fails build despite download attempt
 minired
+# fails build over 'mm_malloc.h' missing
+KSgeneral
 
