@@ -118,6 +118,7 @@ restfulr
 PerfMeas
 jointseg
 rlibkriging
+SimReg
 # Windows only
 excel.link
 RWinEdt
@@ -133,4 +134,6 @@ RAppArmor
 minired
 # fails build over 'mm_malloc.h' missing
 KSgeneral
+# fails over Rcomplex
+ROI.plugin.qpoases
 
