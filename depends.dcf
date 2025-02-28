@@ -313,3 +313,4 @@ tergo: cargo rustc
 RAppArmor: libapparmor-dev
 watcher: cmake
 RcppAPT: libapt-pkg-dev
+XBRL: libxml2-dev
