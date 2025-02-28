@@ -99,7 +99,7 @@ clrng
 checked
 #
 # bnlearn:  link error over allocLang
-bnlearn
+#bnlearn
 #
 # reticulate now needs a venv
 tm.plugin.mail
