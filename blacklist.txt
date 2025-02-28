@@ -120,6 +120,7 @@ jointseg
 rlibkriging
 # Windows only
 excel.link
+RWinEdt
 # "Random" build issue on arm64
 Rbeast
 dbarts
