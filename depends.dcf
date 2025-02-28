@@ -311,3 +311,4 @@ RcppCWB: libglib2.0-dev
 highs: cmake
 tergo: cargo rustc
 RAppArmor: libapparmor-dev
+watcher: cmake
