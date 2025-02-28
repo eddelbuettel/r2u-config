@@ -309,3 +309,4 @@ RcppAlgos: libgmp-dev
 arrangements: libgmp-dev
 RcppCWB: libglib2.0-dev
 highs: cmake
+tergo: cargo rustc
