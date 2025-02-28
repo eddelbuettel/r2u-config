@@ -121,6 +121,7 @@ rlibkriging
 # Windows only
 excel.link
 RWinEdt
+KeyboardSimulator
 # "Random" build issue on arm64
 Rbeast
 dbarts
