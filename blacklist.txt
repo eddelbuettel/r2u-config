@@ -136,6 +136,6 @@ minired
 KSgeneral
 # fails over Rcomplex
 ROI.plugin.qpoases
-# may need Rfast to be remade as .2
-Rfast2
+# fails over SIMD ?
+pgenlibr
 
