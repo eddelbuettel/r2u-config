@@ -124,9 +124,10 @@ polyRAD
 excel.link
 RWinEdt
 KeyboardSimulator
-# "Random" build issue on arm64
+# "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
-# dbarts
+dbarts
+stan4bart
 # No blpapi support
 Rblpapi
 # requires special build of package `unix` ?
