@@ -119,6 +119,7 @@ PerfMeas
 jointseg
 rlibkriging
 SimReg
+polyRAD
 # Windows only
 excel.link
 RWinEdt
