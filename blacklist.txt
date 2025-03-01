@@ -122,6 +122,7 @@ SimReg
 polyRAD
 zenplots
 bioimagetools
+jackalope
 # Windows only
 excel.link
 RWinEdt
