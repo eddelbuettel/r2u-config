@@ -145,4 +145,5 @@ ROI.plugin.qpoases
 pgenlibr
 # fails over pkgload w/ MPI?
 pmclust
-
+# unsupported on arm64
+tiledb
