@@ -124,6 +124,7 @@ zenplots
 bioimagetools
 jackalope
 cpp11bigwig
+snplist
 # Windows only
 excel.link
 RWinEdt
@@ -151,4 +152,6 @@ tiledb
 # rJava does not load / libjvm.so missing?
 matchingMarkets
 gMCP
+# compilation error tbb ?
+quanteda.textstats
 
