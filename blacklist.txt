@@ -121,6 +121,7 @@ rlibkriging
 SimReg
 polyRAD
 zenplots
+bioimagetools
 # Windows only
 excel.link
 RWinEdt
