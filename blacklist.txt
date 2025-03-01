@@ -123,6 +123,7 @@ polyRAD
 zenplots
 bioimagetools
 jackalope
+cpp11bigwig
 # Windows only
 excel.link
 RWinEdt
