@@ -147,3 +147,5 @@ pgenlibr
 pmclust
 # unsupported on arm64
 tiledb
+# rJava does not load / libjvm.so missing?
+matchingMarkets
