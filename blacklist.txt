@@ -138,4 +138,6 @@ KSgeneral
 ROI.plugin.qpoases
 # fails over SIMD ?
 pgenlibr
+# fails over pkgload w/ MPI?
+pmclust
 
