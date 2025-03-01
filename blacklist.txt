@@ -120,6 +120,7 @@ jointseg
 rlibkriging
 SimReg
 polyRAD
+zenplots
 # Windows only
 excel.link
 RWinEdt
