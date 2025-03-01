@@ -126,7 +126,7 @@ RWinEdt
 KeyboardSimulator
 # "Random" build issue on arm64
 Rbeast
-dbarts
+# dbarts
 # No blpapi support
 Rblpapi
 # requires special build of package `unix` ?
