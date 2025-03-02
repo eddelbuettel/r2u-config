@@ -130,6 +130,7 @@ EthSEQ
 PINSPlus
 abn
 pcalg
+adjclust
 # Windows only
 excel.link
 RWinEdt
