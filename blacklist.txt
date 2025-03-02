@@ -131,6 +131,7 @@ PINSPlus
 abn
 pcalg
 adjclust
+BiDAG
 # Windows only
 excel.link
 RWinEdt
