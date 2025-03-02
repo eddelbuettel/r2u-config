@@ -125,6 +125,8 @@ bioimagetools
 jackalope
 cpp11bigwig
 snplist
+SmartSVA
+EthSEQ
 # Windows only
 excel.link
 RWinEdt
