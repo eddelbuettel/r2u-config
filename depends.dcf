@@ -318,3 +318,5 @@ mongolite: libssl-dev libsasl2-dev
 vcfppR: libcurl4-openssl-dev
 tfevents: protobuf-compiler protobuf-c-compiler libprotobuf-dev libprotobuf-c-dev
 gdtools: libcairo2-dev libfreetype-dev
+TDA: libgmp-dev
+multibridge: libgmp-dev libmpfr-dev
