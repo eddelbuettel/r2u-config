@@ -133,6 +133,7 @@ pcalg
 adjclust
 BiDAG
 mombf
+hahmmr
 # Windows only
 excel.link
 RWinEdt
