@@ -127,6 +127,7 @@ cpp11bigwig
 snplist
 SmartSVA
 EthSEQ
+PINSPlus
 # Windows only
 excel.link
 RWinEdt
