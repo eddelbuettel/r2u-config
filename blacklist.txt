@@ -129,6 +129,7 @@ SmartSVA
 EthSEQ
 PINSPlus
 abn
+pcalg
 # Windows only
 excel.link
 RWinEdt
