@@ -132,6 +132,7 @@ abn
 pcalg
 adjclust
 BiDAG
+mombf
 # Windows only
 excel.link
 RWinEdt
