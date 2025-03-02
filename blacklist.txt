@@ -135,6 +135,7 @@ BiDAG
 mombf
 hahmmr
 samr
+NMF
 # Windows only
 excel.link
 RWinEdt
@@ -162,6 +163,7 @@ tiledb
 # rJava does not load / libjvm.so missing?
 matchingMarkets
 gMCP
+Crossover
 # compilation error tbb ?
 quanteda.textstats
 
