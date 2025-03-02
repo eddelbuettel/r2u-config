@@ -134,6 +134,7 @@ adjclust
 BiDAG
 mombf
 hahmmr
+samr
 # Windows only
 excel.link
 RWinEdt
