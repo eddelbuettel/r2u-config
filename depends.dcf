@@ -323,3 +323,4 @@ multibridge: libgmp-dev libmpfr-dev
 fangs: cargo rustc
 xdvir: libfreetype-dev
 awdb: rustc cargo
+rbedrock: cmake

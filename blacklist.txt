@@ -137,6 +137,7 @@ hahmmr
 samr
 NMF
 RANKS
+gpcp
 rSpectral
 # Windows only
 excel.link
@@ -170,4 +171,6 @@ Crossover
 quanteda.textstats
 # off one-off with survival ?
 fastcmprsk
+# odd BH/gmp error?
+interpolation
 
