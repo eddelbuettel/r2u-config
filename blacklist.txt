@@ -153,6 +153,9 @@ WGCNA
 PhenotypeSimulator
 rags2ridges
 Rnmr1D
+sigminer
+numbat
+FLORAL
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
 dbarts
@@ -183,4 +186,6 @@ quanteda.textstats
 fastcmprsk
 # odd BH/gmp error?
 interpolation
+# odd compilation error
+creditr
 
