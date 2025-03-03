@@ -321,3 +321,4 @@ gdtools: libcairo2-dev libfreetype-dev
 TDA: libgmp-dev
 multibridge: libgmp-dev libmpfr-dev
 fangs: cargo rustc
+xdvir: libfreetype-dev
