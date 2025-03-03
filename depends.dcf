@@ -324,3 +324,5 @@ fangs: cargo rustc
 xdvir: libfreetype-dev
 awdb: rustc cargo
 rbedrock: cmake
+leidenAlg: libgmp-dev libxml2-dev libglpk-dev
+
