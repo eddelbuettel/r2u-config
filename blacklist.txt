@@ -136,6 +136,7 @@ mombf
 hahmmr
 samr
 NMF
+RANKS
 # Windows only
 excel.link
 RWinEdt
