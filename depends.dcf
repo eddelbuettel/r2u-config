@@ -320,3 +320,4 @@ tfevents: protobuf-compiler protobuf-c-compiler libprotobuf-dev libprotobuf-c-de
 gdtools: libcairo2-dev libfreetype-dev
 TDA: libgmp-dev
 multibridge: libgmp-dev libmpfr-dev
+fangs: cargo rustc
