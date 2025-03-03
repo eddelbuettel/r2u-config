@@ -167,4 +167,6 @@ gMCP
 Crossover
 # compilation error tbb ?
 quanteda.textstats
+# off one-off with survival ?
+fastcmprsk
 
