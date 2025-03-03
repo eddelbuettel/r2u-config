@@ -137,6 +137,7 @@ hahmmr
 samr
 NMF
 RANKS
+rSpectral
 # Windows only
 excel.link
 RWinEdt
