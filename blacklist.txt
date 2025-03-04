@@ -192,6 +192,7 @@ fastcmprsk
 interpolation
 # odd compilation error
 creditr
+rmarchingcubes
 # includes R_ext/Error.h: No such file (issue ticket filed)
 Rtwobitlib
 # arch not supported
