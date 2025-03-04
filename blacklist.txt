@@ -197,3 +197,5 @@ rmarchingcubes
 Rtwobitlib
 # arch not supported
 redatamx
+# appears to require orte MPI runtime
+kazaam
