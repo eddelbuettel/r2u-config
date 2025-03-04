@@ -328,3 +328,4 @@ leidenAlg: libgmp-dev libxml2-dev libglpk-dev
 RationalMatrix: libgmp-dev
 qspray: libgmp-dev
 ratioOfQsprays: libgmp-dev libmpfr-dev
+caviarpd: cargo rustc
