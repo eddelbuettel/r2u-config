@@ -189,4 +189,6 @@ fastcmprsk
 interpolation
 # odd compilation error
 creditr
+# includes R_ext/Error.h: No such file
+Rtwobitlib
 
