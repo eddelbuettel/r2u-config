@@ -334,3 +334,4 @@ tomledit: cargo rustc
 RcppBigIntAlgos: libgmp-dev
 hypergeo2: libgmp-dev libmpfr-dev
 scModels: libgmp-dev libmpfr-dev
+scorematchingad: cmake
