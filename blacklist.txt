@@ -158,6 +158,7 @@ numbat
 FLORAL
 mulea
 NetPreProc
+DNAmotif
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
 dbarts
@@ -182,6 +183,7 @@ tiledb
 matchingMarkets
 gMCP
 Crossover
+collUtils
 # compilation error tbb ?
 quanteda.textstats
 # off one-off with survival ?
