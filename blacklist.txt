@@ -157,6 +157,7 @@ sigminer
 numbat
 FLORAL
 mulea
+NetPreProc
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
 dbarts
@@ -189,6 +190,7 @@ fastcmprsk
 interpolation
 # odd compilation error
 creditr
-# includes R_ext/Error.h: No such file
+# includes R_ext/Error.h: No such file (issue ticket filed)
 Rtwobitlib
-
+# arch not supported
+redatamx
