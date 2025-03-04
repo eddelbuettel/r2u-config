@@ -186,6 +186,7 @@ matchingMarkets
 gMCP
 Crossover
 collUtils
+sdpdth
 # compilation error tbb ?
 quanteda.textstats
 # off one-off with survival ?
