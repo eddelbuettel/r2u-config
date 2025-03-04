@@ -156,6 +156,7 @@ Rnmr1D
 sigminer
 numbat
 FLORAL
+mulea
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
 dbarts
