@@ -331,3 +331,4 @@ ratioOfQsprays: libgmp-dev libmpfr-dev
 caviarpd: cargo rustc
 crc32c: cmake
 tomledit: cargo rustc
+RcppBigIntAlgos: libgmp-dev
