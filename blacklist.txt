@@ -179,6 +179,9 @@ valr
 pmartR
 SigTree
 DCLEAR
+conos
+smer
+MIC
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
 dbarts
@@ -214,3 +217,5 @@ Rtwobitlib
 redatamx
 # appears to require orte MPI runtime
 kazaam
+# needs dbarts (see above, does not build)
+countSTAR
