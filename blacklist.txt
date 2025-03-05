@@ -191,11 +191,11 @@ pmclust
 # unsupported on arm64
 tiledb
 # rJava does not load / libjvm.so missing?
-matchingMarkets
-gMCP
-Crossover
-collUtils
-sdpdth
+#matchingMarkets
+#gMCP
+#Crossover
+#collUtils
+#sdpdth
 # compilation error tbb ?
 quanteda.textstats
 # off one-off with survival ?
