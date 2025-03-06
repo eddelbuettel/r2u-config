@@ -220,3 +220,7 @@ redatamx
 kazaam
 # needs dbarts (see above, does not build)
 countSTAR
+# needs rmarchingcubes (see above, does not build)
+Racmacs
+# needs quanteda.textstats (see above, does not build)
+rainette
