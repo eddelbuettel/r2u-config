@@ -185,6 +185,11 @@ MIC
 CB2
 phylosem
 scITD
+CSeQTL
+jrSICKLSNMF
+Coxmos
+mDAG
+DR.SC
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
 dbarts
