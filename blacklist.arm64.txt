@@ -1,0 +1,128 @@
+#
+#
+# -- arm64 below
+#
+# BioC not yet ready for arm64
+restfulr
+PerfMeas
+jointseg
+rlibkriging
+SimReg
+polyRAD
+zenplots
+bioimagetools
+jackalope
+cpp11bigwig
+snplist
+SmartSVA
+EthSEQ
+PINSPlus
+abn
+pcalg
+adjclust
+BiDAG
+mombf
+hahmmr
+samr
+NMF
+RANKS
+gpcp
+rSpectral
+SC.MEB
+HEMDAG
+biomartr
+crosstalkr
+LOMAR
+Signac
+alakazam
+rliger
+dsem
+scoper
+WGCNA
+PhenotypeSimulator
+rags2ridges
+Rnmr1D
+sigminer
+numbat
+FLORAL
+mulea
+NetPreProc
+DNAmotif
+SIGN
+DysPIA
+missoNet
+EstMix
+MoTBFs
+PANACEA
+speedytax
+psSubpathway
+kmeRtone
+tidygenomics
+Bestie
+GWASinlps
+Mega2R
+idiffomix
+JFM
+netgsa
+valr
+pmartR
+SigTree
+DCLEAR
+conos
+smer
+MIC
+CB2
+phylosem
+scITD
+CSeQTL
+jrSiCKLSNMF
+Coxmos
+mDAG
+DR.SC
+SCIntRuler
+nebula
+PRECAST
+ProFAST
+MSclassifR
+CAESAR.Suite
+# "Random" build issue on arm64, and implied because of block (stan4bart)
+Rbeast
+dbarts
+stan4bart
+# No blpapi support
+Rblpapi
+# requires special build of package `unix` ?
+RAppArmor
+# fails build despite download attempt
+minired
+# fails build over 'mm_malloc.h' missing
+KSgeneral
+# fails over Rcomplex
+ROI.plugin.qpoases
+# fails over SIMD ?
+pgenlibr
+# fails over pkgload w/ MPI?
+pmclust
+# unsupported on arm64
+tiledb
+# compilation error tbb ?
+quanteda.textstats
+# off one-off with survival ?
+fastcmprsk
+# odd BH/gmp error?
+interpolation
+# odd compilation error
+creditr
+rmarchingcubes
+# includes R_ext/Error.h: No such file (issue ticket filed)
+Rtwobitlib
+# arch not supported
+redatamx
+# appears to require orte MPI runtime
+kazaam
+# needs dbarts (see above, does not build)
+countSTAR
+# needs rmarchingcubes (see above, does not build)
+Racmacs
+# needs quanteda.textstats (see above, does not build)
+rainette
