@@ -336,3 +336,4 @@ hypergeo2: libgmp-dev libmpfr-dev
 scModels: libgmp-dev libmpfr-dev
 scorematchingad: cmake
 fio: cargo rustc
+laminr: r-cran-r6
