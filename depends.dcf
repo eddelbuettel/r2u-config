@@ -337,3 +337,4 @@ scModels: libgmp-dev libmpfr-dev
 scorematchingad: cmake
 fio: cargo rustc
 laminr: r-cran-r6
+RcppDPR: libgsl-dev
