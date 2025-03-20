@@ -114,8 +114,8 @@ interpolation
 # odd compilation error
 creditr
 rmarchingcubes
-# includes R_ext/Error.h: No such file (issue ticket filed)
-Rtwobitlib
+# includes R_ext/Error.h: No such file (issue ticket filed, now fixed)
+# Rtwobitlib
 # arch not supported
 redatamx
 # appears to require orte MPI runtime
