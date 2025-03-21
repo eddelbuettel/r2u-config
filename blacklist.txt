@@ -109,3 +109,4 @@ PytrendsLongitudinalR
 rbm25
 prqlr
 SQLFormatteR
+string2path
