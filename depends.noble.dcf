@@ -1,7 +1,7 @@
 git2r: libssh2-1-dev
 rolog: libarchive-dev swi-prolog-core
 stan4bart: libtbb-dev
-bayesdfa: libtbb-dev
+bayesdfa: libtbb-dev r-cran-rstantools
 RcppParallel: libtbb-dev
 prophet: libtbb-dev
 rstanarm: libtbb-dev
