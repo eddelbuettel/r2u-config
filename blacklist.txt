@@ -110,3 +110,6 @@ rbm25
 prqlr
 SQLFormatteR
 string2path
+#
+# currently borked, needs a R 4.5.0 conditional
+RJSONIO
