@@ -110,3 +110,4 @@ rbm25
 prqlr
 SQLFormatteR
 string2path
+b64
