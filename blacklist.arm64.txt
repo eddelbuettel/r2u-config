@@ -89,8 +89,6 @@ CAESAR.Suite
 Rbeast
 dbarts
 stan4bart
-# No blpapi support
-Rblpapi
 # requires special build of package `unix` ?
 RAppArmor
 # fails build despite download attempt
