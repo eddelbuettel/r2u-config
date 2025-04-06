@@ -96,7 +96,7 @@ gpuR
 clrng
 #
 # Has hard-wired path which fails re-load test at buid
-checked
+#checked
 #
 # bnlearn:  link error over allocLang
 #bnlearn
@@ -107,7 +107,6 @@ PytrendsLongitudinalR
 #
 # cargo too old
 rbm25
-prqlr
 SQLFormatteR
 string2path
 fio
