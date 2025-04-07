@@ -110,4 +110,5 @@ rbm25
 SQLFormatteR
 string2path
 fio
+rshift
 
