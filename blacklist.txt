@@ -112,3 +112,5 @@ string2path
 fio
 rshift
 arcgisplaces
+fangs
+salso
