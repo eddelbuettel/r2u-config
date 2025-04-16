@@ -58,4 +58,6 @@ rayrender
 #parseLatex
 # libflint is too old
 flint
+# wants C++20
+funMoDisco
 
