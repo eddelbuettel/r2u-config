@@ -87,6 +87,7 @@ MSclassifR
 CAESAR.Suite
 piglet
 PathwayVote
+graphpcor
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
 dbarts
