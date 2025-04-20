@@ -58,6 +58,7 @@ rayrender
 #parseLatex
 # libflint is too old
 flint
+# cmake too old
+RcppPlanc
 # wants C++20
 funMoDisco
-
