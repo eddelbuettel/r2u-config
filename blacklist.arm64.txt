@@ -127,3 +127,5 @@ countSTAR
 Racmacs
 # needs quanteda.textstats (see above, does not build)
 rainette
+# needs dbarts (see above, does not build)
+bartXViz
