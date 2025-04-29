@@ -341,3 +341,4 @@ RcppDPR: libgsl-dev
 RcppPlanc: cmake libhdf5-dev
 Rsubbotools: libgsl-dev
 graphpcor: libltdl-dev
+xactonomial: cargo rustc

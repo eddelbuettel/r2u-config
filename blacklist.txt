@@ -114,3 +114,4 @@ rshift
 arcgisplaces
 fangs
 salso
+xactonomial
