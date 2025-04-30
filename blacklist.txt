@@ -115,3 +115,5 @@ arcgisplaces
 fangs
 salso
 xactonomial
+# compilation error under current compilers (cf https://github.com/ge11232002/CNEr/issues/28)
+CNEr
