@@ -62,3 +62,5 @@ flint
 RcppPlanc
 # wants C++20
 funMoDisco
+# no longer compiles
+HilbertVis
