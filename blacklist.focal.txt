@@ -64,3 +64,6 @@ RcppPlanc
 funMoDisco
 # no longer compiles
 HilbertVis
+# needs RcppPlanc
+rliger
+
