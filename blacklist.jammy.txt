@@ -1,2 +1,4 @@
 # libflint is too old
 flint
+# no longer compiles
+HilbertVis
