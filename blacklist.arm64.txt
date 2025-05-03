@@ -129,3 +129,6 @@ Racmacs
 rainette
 # needs dbarts (see above, does not build)
 bartXViz
+# needs dsem (see above, bioc)
+tinyVAST
+
