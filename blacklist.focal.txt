@@ -66,4 +66,5 @@ funMoDisco
 HilbertVis
 # needs RcppPlanc
 rliger
-
+# borks over shm_open
+interprocess
