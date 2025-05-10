@@ -344,3 +344,4 @@ graphpcor: libltdl-dev
 xactonomial: cargo rustc
 RSQLite: libsqlite3-dev
 libdeflate: cmake
+gglinedensity: cargo rustc
