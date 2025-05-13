@@ -68,3 +68,5 @@ HilbertVis
 rliger
 # borks over shm_open
 interprocess
+# needs absl-dev
+s2
