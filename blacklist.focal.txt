@@ -72,3 +72,8 @@ interprocess
 s2
 # missing something (BioC ?)
 GencoDymo2
+# need rswipl
+mathml
+# wants C++20
+persistence
+
