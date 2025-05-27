@@ -76,4 +76,5 @@ GencoDymo2
 mathml
 # wants C++20
 persistence
-
+# wants interprocess 
+jobqueue
