@@ -78,3 +78,6 @@ mathml
 persistence
 # wants interprocess 
 jobqueue
+# newest version no longer builds, seems to need newer libgdal
+terra
+
