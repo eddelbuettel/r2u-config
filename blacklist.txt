@@ -117,6 +117,7 @@ salso
 xactonomial
 b64
 caviarpd
+astgrepr
 # compilation error under current compilers (cf https://github.com/ge11232002/CNEr/issues/28)
 CNEr
 # current include directory bug (fixed via our PR)
