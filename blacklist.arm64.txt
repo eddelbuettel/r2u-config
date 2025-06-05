@@ -136,3 +136,5 @@ bartXViz
 tinyVAST
 # compilation error
 hdtg
+# needs -lquadmath which does not exist
+baseline

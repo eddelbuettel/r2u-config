@@ -348,4 +348,3 @@ gglinedensity: cargo rustc
 s2: cmake libabsl-dev libssl-dev
 birp: cmake
 libimath: cmake
-baseline: libquadmath0
