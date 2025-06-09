@@ -138,3 +138,5 @@ tinyVAST
 hdtg
 # needs -lquadmath which does not exist
 baseline
+# assumes /usr/lib/R/include
+Rdsdp
