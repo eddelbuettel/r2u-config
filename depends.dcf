@@ -349,3 +349,4 @@ s2: cmake libabsl-dev libssl-dev
 birp: cmake
 libimath: cmake
 libopenexr: cmake
+survextrap: r-cran-rstantools
