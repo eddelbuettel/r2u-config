@@ -350,3 +350,5 @@ birp: cmake
 libimath: cmake
 libopenexr: cmake
 survextrap: r-cran-rstantools
+unsum: cargo rustc
+
