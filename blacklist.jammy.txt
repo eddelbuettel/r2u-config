@@ -2,3 +2,5 @@
 flint
 # no longer compiles
 HilbertVis
+# bombs when locally compiling zstd
+pgenlibr
