@@ -80,5 +80,3 @@ persistence
 jobqueue
 # newest version no longer builds, seems to need newer libgdal
 terra
-# bombs when locally compiling zstd
-pgenlibr
