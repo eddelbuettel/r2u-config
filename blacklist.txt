@@ -122,4 +122,6 @@ astgrepr
 CNEr
 # current include directory bug (fixed via our PR)
 # cubature
+# need astgrepr
+flir
 
