@@ -352,3 +352,4 @@ libopenexr: cmake
 survextrap: r-cran-rstantools
 unsum: cargo rustc
 ciflyr: cargo rustc
+Rfastp: libcurl4-openssl-dev
