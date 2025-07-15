@@ -2,3 +2,6 @@
 flint
 # no longer compiles
 HilbertVis
+# needs newer CMake
+RcppPlanc
+
