@@ -124,4 +124,6 @@ CNEr
 # cubature
 # need astgrepr
 flir
+# needs lantern via install_torch()
+shrinkGPR
 
