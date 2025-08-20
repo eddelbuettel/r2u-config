@@ -93,6 +93,7 @@ spatialGE
 GAPR
 Rfastp
 hicream
+apLCMS
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
 dbarts
