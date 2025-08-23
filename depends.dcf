@@ -357,3 +357,4 @@ EHRmuse: libgsl-dev
 diffHic: libcurl4-openssl-dev
 socratadata: cargo rustc
 pliman: libfftw3-dev
+datefixR: cargo rustc
