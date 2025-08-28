@@ -105,7 +105,7 @@ clrng
 tm.plugin.mail
 PytrendsLongitudinalR
 #
-# cargo too old
+# cargo / rustc too old
 rbm25
 SQLFormatteR
 string2path
@@ -118,6 +118,7 @@ xactonomial
 b64
 caviarpd
 astgrepr
+tok
 # compilation error under current compilers (cf https://github.com/ge11232002/CNEr/issues/28)
 CNEr
 # current include directory bug (fixed via our PR)
