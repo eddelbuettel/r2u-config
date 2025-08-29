@@ -94,6 +94,7 @@ GAPR
 Rfastp
 hicream
 apLCMS
+scPOEM
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
 dbarts
