@@ -358,3 +358,5 @@ diffHic: libcurl4-openssl-dev
 socratadata: cargo rustc
 pliman: libfftw3-dev
 datefixR: cargo rustc
+gadjid: cargo rustc
+h3o: cargo rustc
