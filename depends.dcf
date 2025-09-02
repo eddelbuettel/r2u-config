@@ -360,3 +360,4 @@ pliman: libfftw3-dev
 datefixR: cargo rustc
 gadjid: cargo rustc
 h3o: cargo rustc
+blosc: libblosc-dev
