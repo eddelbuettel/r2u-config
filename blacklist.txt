@@ -129,4 +129,6 @@ CNEr
 flir
 # needs lantern via install_torch()
 shrinkGPR
-
+# borked build (even under 24.04)
+blosc
+minimaxALT
