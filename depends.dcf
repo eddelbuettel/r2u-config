@@ -361,3 +361,4 @@ datefixR: cargo rustc
 gadjid: cargo rustc
 h3o: cargo rustc
 blosc: libblosc-dev
+ragg: libwebp-dev
