@@ -145,3 +145,4 @@ miniLNM: libtbb2-dev
 rxode2: libtbb2-dev
 serosv: libtbb2-dev
 eDNAjoint: libtbb2-dev
+saeHB.TF.beta: libtbb2-dev

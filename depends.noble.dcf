@@ -149,4 +149,5 @@ rxode2: libtbb-dev
 serosv: libtbb-dev
 eDNAjoint: libtbb-dev
 rtiktoken: cargo rustc
+saeHB.TF.beta: libtbb-dev
 
