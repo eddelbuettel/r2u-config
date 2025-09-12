@@ -363,3 +363,4 @@ h3o: cargo rustc
 blosc: libblosc-dev
 ragg: libwebp-dev
 otelsdk: cmake protobuf-compiler libprotobuf-dev libcurl4-openssl-dev
+rsamplr: cargo rustc
