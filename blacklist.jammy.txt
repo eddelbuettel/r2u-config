@@ -4,4 +4,6 @@ flint
 HilbertVis
 # needs newer CMake
 RcppPlanc
+# needs newer compiler (or better size_t definition, issue filed)
+multinet
 
