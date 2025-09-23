@@ -150,4 +150,5 @@ Rdsdp
 inDAGO
 # needs several BioC packages
 SATS
-
+# at least for now fails to build
+edgemodelr
