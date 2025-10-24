@@ -131,3 +131,5 @@ flir
 shrinkGPR
 # borked build (even under 24.04)
 minimaxALT
+# borked with C++20 compiler
+poseticDataAnalysis
