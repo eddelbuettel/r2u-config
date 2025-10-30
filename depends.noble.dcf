@@ -150,4 +150,4 @@ serosv: libtbb-dev
 eDNAjoint: libtbb-dev
 rtiktoken: cargo rustc
 saeHB.TF.beta: libtbb-dev
-
+ATACseqQC: r-bioc-genomeinfodb
