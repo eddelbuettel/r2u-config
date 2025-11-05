@@ -2,103 +2,103 @@
 #
 # -- arm64 below
 #
-# # BioC not yet ready for arm64
-# restfulr
-# PerfMeas
-# jointseg
-# rlibkriging
-# SimReg
-# polyRAD
-# zenplots
-# bioimagetools
-# jackalope
-# cpp11bigwig
-# snplist
-# SmartSVA
-# EthSEQ
-# PINSPlus
-# abn
-# pcalg
-# adjclust
-# BiDAG
-# mombf
-# hahmmr
-# samr
-# NMF
-# RANKS
-# gpcp
-# rSpectral
-# SC.MEB
-# HEMDAG
-# biomartr
-# crosstalkr
-# LOMAR
-# Signac
-# alakazam
-# rliger
-# dsem
-# scoper
-# WGCNA
-# PhenotypeSimulator
-# rags2ridges
-# Rnmr1D
-# sigminer
-# numbat
-# FLORAL
-# mulea
-# NetPreProc
-# DNAmotif
-# SIGN
-# DysPIA
-# missoNet
-# EstMix
-# MoTBFs
-# PANACEA
-# speedytax
-# psSubpathway
-# kmeRtone
-# tidygenomics
-# Bestie
-# GWASinlps
-# Mega2R
-# idiffomix
-# JFM
-# netgsa
-# valr
-# pmartR
-# SigTree
-# DCLEAR
-# conos
-# smer
-# MIC
-# CB2
-# phylosem
-# scITD
-# CSeQTL
-# jrSiCKLSNMF
-# Coxmos
-# mDAG
-# DR.SC
-# SCIntRuler
-# nebula
-# PRECAST
-# ProFAST
-# MSclassifR
-# CAESAR.Suite
-# piglet
-# PathwayVote
-# graphpcor
-# HiCociety
-# spatialGE
-# GAPR
-# Rfastp
-# hicream
-# apLCMS
-# scPOEM
-# pedgene
-# modelSelection
-# SIPmg
-# OmicFlow
+# BioC not yet ready for arm64
+restfulr
+PerfMeas
+jointseg
+rlibkriging
+SimReg
+polyRAD
+zenplots
+bioimagetools
+jackalope
+cpp11bigwig
+snplist
+SmartSVA
+EthSEQ
+PINSPlus
+abn
+pcalg
+adjclust
+BiDAG
+mombf
+hahmmr
+samr
+NMF
+RANKS
+gpcp
+rSpectral
+SC.MEB
+HEMDAG
+biomartr
+crosstalkr
+LOMAR
+Signac
+alakazam
+rliger
+dsem
+scoper
+WGCNA
+PhenotypeSimulator
+rags2ridges
+Rnmr1D
+sigminer
+numbat
+FLORAL
+mulea
+NetPreProc
+DNAmotif
+SIGN
+DysPIA
+missoNet
+EstMix
+MoTBFs
+PANACEA
+speedytax
+psSubpathway
+kmeRtone
+tidygenomics
+Bestie
+GWASinlps
+Mega2R
+idiffomix
+JFM
+netgsa
+valr
+pmartR
+SigTree
+DCLEAR
+conos
+smer
+MIC
+CB2
+phylosem
+scITD
+CSeQTL
+jrSiCKLSNMF
+Coxmos
+mDAG
+DR.SC
+SCIntRuler
+nebula
+PRECAST
+ProFAST
+MSclassifR
+CAESAR.Suite
+piglet
+PathwayVote
+graphpcor
+HiCociety
+spatialGE
+GAPR
+Rfastp
+hicream
+apLCMS
+scPOEM
+pedgene
+modelSelection
+SIPmg
+OmicFlow
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
 dbarts
