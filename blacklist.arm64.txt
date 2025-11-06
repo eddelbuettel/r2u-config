@@ -2,7 +2,7 @@
 #
 # -- arm64 below
 #
-# # BioC not yet ready for arm64
+# # BioC not yet ready for arm64 (see below for 2nd list)
 # restfulr
 # PerfMeas
 # jointseg
@@ -154,3 +154,17 @@ inDAGO
 SATS
 # at least for now fails to build
 edgemodelr
+# Bioc with dependency on zlibbioc which is no longer in 3.22 (and bidag for bestie)
+DNAmotif
+SIGN
+jackalope
+SmartSVA
+cpp11bigwig
+PANACEA
+snplist
+psSubpathway
+speedytax
+kmeRtone
+gpcp
+hahmmr
+bestie
