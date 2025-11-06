@@ -154,7 +154,7 @@ inDAGO
 SATS
 # at least for now fails to build
 edgemodelr
-# Bioc with dependency on zlibbioc which is no longer in 3.22 (and bidag for bestie)
+# Bioc with dependency on zlibbioc which is no longer in 3.22 (and bidag for Bestie)
 DNAmotif
 SIGN
 jackalope
@@ -167,4 +167,17 @@ speedytax
 kmeRtone
 gpcp
 hahmmr
-bestie
+Bestie
+valr
+crosstalkr
+netgsa
+biomartr
+Signac
+alakazam
+MIC
+scoper
+WGCNA
+HiCociety
+PhenotypeSimulator
+
+
