@@ -154,30 +154,41 @@ inDAGO
 SATS
 # at least for now fails to build
 edgemodelr
-# Bioc with dependency on zlibbioc which is no longer in 3.22 (and bidag for Bestie)
-DNAmotif
-SIGN
-jackalope
-SmartSVA
-cpp11bigwig
-PANACEA
-snplist
-psSubpathway
-speedytax
-kmeRtone
-gpcp
-hahmmr
+# # Bioc with dependency on zlibbioc which is no longer in 3.22 (and bidag for Bestie)
+# DNAmotif
+# SIGN
+# jackalope
+# SmartSVA
+# cpp11bigwig
+# PANACEA
+# snplist
+# psSubpathway
+# speedytax
+# kmeRtone
+# gpcp
+# hahmmr
 Bestie
-valr
-crosstalkr
-netgsa
-biomartr
-Signac
-alakazam
-MIC
-scoper
-WGCNA
-HiCociety
-PhenotypeSimulator
+# valr
+# crosstalkr
+# netgsa
+# biomartr
+# Signac
+# alakazam
+# MIC
+# scoper
+# WGCNA
+# HiCociety
+# PhenotypeSimulator
+# sigminer
+# mumnat
+# FLORAL
+# CSeQTL
+# jrSiCKLSNMF
+# spatialGE
+# nebula
+# rliger
+# PRECAST
+# ProFAST
+# scITD
 
 
