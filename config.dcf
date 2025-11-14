@@ -11,4 +11,3 @@ r2u_directory: /var/local/r2u
 build_directory: /var/local/r2u/build
 deb_directory: /var/local/r2u/ubuntu/pool
 build_container: eddelbuettel/r2u_build
-
