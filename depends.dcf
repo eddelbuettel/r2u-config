@@ -365,4 +365,4 @@ ragg: libwebp-dev
 otelsdk: cmake protobuf-compiler libprotobuf-dev libcurl4-openssl-dev
 rsamplr: cargo rustc
 XYomics: libboost-dev
-GeneralizedUmatrixGPU: opencl-c-headers
+GeneralizedUmatrixGPU: opencl-c-headers ocl-icd-opencl-dev
