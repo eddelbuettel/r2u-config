@@ -133,5 +133,5 @@ shrinkGPR
 minimaxALT
 # borked with C++20 compiler
 poseticDataAnalysis
-# does not build
-hdf5lib
+# does not build (has now been removed)
+# hdf5lib
