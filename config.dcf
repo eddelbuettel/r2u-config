@@ -6,6 +6,7 @@ r_api_version: 4.0
 bioc_version: 3.22
 debian_policy_version: 4.7.0
 cache_age_hours_cran_db: 3
+package_repo_preference: cran
 package_cache: /var/local/r2u/cache
 r2u_directory: /var/local/r2u
 build_directory: /var/local/r2u/build
