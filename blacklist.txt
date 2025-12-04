@@ -137,4 +137,5 @@ poseticDataAnalysis
 # hdf5lib
 # needs go
 mangoro
-
+# need cargo 1.80
+caugi
