@@ -10,3 +10,6 @@ RcppPlanc
 OmicFlow
 # Bioc packages fails to build (https://github.com/eddelbuettel/r2u-bioc-builder/actions/runs/18974876122/job/54192404122)
 HPO.db
+# compiler error
+BioCro
+
