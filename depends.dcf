@@ -368,3 +368,4 @@ XYomics: libboost-dev
 GeneralizedUmatrixGPU: opencl-c-headers ocl-icd-opencl-dev
 RPesto: cargo rustc
 yaml12: cargo rustc
+waysign: cargo rustc
