@@ -139,3 +139,6 @@ poseticDataAnalysis
 mangoro
 # need cargo 1.80
 caugi
+# BioC with archived CRAN dependenies
+destiny
+orthogene
