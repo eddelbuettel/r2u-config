@@ -142,3 +142,5 @@ caugi
 # BioC with archived CRAN dependenies
 destiny
 orthogene
+# needs newer cargo: lock file version 4 requires `-Znext-lockfile-bump`
+enderecobr
