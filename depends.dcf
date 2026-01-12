@@ -371,5 +371,3 @@ yaml12: cargo rustc
 waysign: cargo rustc
 CausalQueries: libboost-dev
 enderecobr: cargo rustc
-arrow: libzstd-dev libbrotli-dev liblzo2-dev libbz2-dev
-
