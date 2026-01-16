@@ -190,5 +190,8 @@ Bestie
 # PRECAST
 # ProFAST
 # scITD
+#
+# fails on arm64
+Rwbo
 
 
