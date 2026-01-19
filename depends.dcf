@@ -372,3 +372,4 @@ waysign: cargo rustc
 CausalQueries: libboost-dev
 enderecobr: cargo rustc
 arrow: libcurl4-openssl-dev libssl-dev
+fastgeojson: cargo rustc
