@@ -133,7 +133,6 @@ quanteda: libtbb-dev
 BPrinStratTTE: libtbb-dev r-cran-rstantools
 rsparse: libopenblas-pthread-dev
 rxode2ll: libtbb-dev
-arcgisgeocode: cargo rustc
 GUD: libtbb-dev
 winputall: libtbb-dev
 birdie: libtbb-dev
@@ -148,7 +147,6 @@ multinma: libtbb-dev
 rxode2: libtbb-dev
 serosv: libtbb-dev
 eDNAjoint: libtbb-dev
-rtiktoken: cargo rustc
 saeHB.TF.beta: libtbb-dev
 # ATACseqQC: r-bioc-genomeinfodb
 

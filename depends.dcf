@@ -246,27 +246,10 @@ fluidsynth: libfluidsynth-dev
 methylKit: libcurl4-openssl-dev
 bigrquerystorage: libprotobuf-dev libgrpc++-dev protobuf-compiler-grpc
 Colossus: r-cran-stringr
-timeless: cargo
 sbrl: libgsl-dev libgmp-dev
-clarabel: cargo
-gifski: cargo
-heck: cargo
-hellorust: cargo
-orbweaver: cargo
-prqlr: cargo
-smcryptoR: cargo
-ymd: cargo
-tok: cargo
-b64: cargo
-string2path: cargo
-arcpbf: cargo
-fcl: cargo
 interpolation: libgmp-dev
-rsgeo: cargo libssl-dev 
+rsgeo: libssl-dev 
 rtracklayer: libcurl4-openssl-dev
-arcgisutils: rustc cargo
-zoomerjoin: cargo
-rshift: cargo
 ratioOfQsprays: libgmp-dev libmpfr-dev
 symbolicQspray: libgmp-dev libmpfr-dev
 Apollonius: libgmp-dev libmpfr-dev
@@ -274,7 +257,7 @@ CytoML: libxml2-dev
 jack: libgmp-dev libmpfr-dev
 QuasR: libcurl4-openssl-dev
 ChemmineOB: libopenbabel-dev libeigen3-dev
-arcgisplaces: cargo libssl-dev
+arcgisplaces: libssl-dev
 alcyon: cmake
 mcrPioda: libgsl-dev
 MPCR: cmake git
@@ -304,12 +287,10 @@ rcdd: libgmp-dev
 strawr: libcurl4-openssl-dev
 symengine: cmake libgmp-dev libmpfr-dev
 JavaGD: default-jdk
-salso: cargo rustc
 RcppAlgos: libgmp-dev
 arrangements: libgmp-dev
 RcppCWB: libglib2.0-dev
 highs: cmake
-tergo: cargo rustc
 RAppArmor: libapparmor-dev
 watcher: cmake
 RcppAPT: libapt-pkg-dev
@@ -320,56 +301,37 @@ tfevents: protobuf-compiler protobuf-c-compiler libprotobuf-dev libprotobuf-c-de
 gdtools: libcairo2-dev libfreetype-dev
 TDA: libgmp-dev
 multibridge: libgmp-dev libmpfr-dev
-fangs: cargo rustc
 xdvir: libfreetype-dev
-awdb: rustc cargo
 rbedrock: cmake
 leidenAlg: libgmp-dev libxml2-dev libglpk-dev
 RationalMatrix: libgmp-dev
 qspray: libgmp-dev
 ratioOfQsprays: libgmp-dev libmpfr-dev
-caviarpd: cargo rustc
 crc32c: cmake
-tomledit: cargo rustc
 RcppBigIntAlgos: libgmp-dev
 hypergeo2: libgmp-dev libmpfr-dev
 scModels: libgmp-dev libmpfr-dev
 scorematchingad: cmake
-fio: cargo rustc
 laminr: r-cran-r6
 RcppDPR: libgsl-dev
 RcppPlanc: cmake libhdf5-dev
 Rsubbotools: libgsl-dev
 graphpcor: libltdl-dev
-xactonomial: cargo rustc
 RSQLite: libsqlite3-dev
 libdeflate: cmake
-gglinedensity: cargo rustc
 s2: cmake libabsl-dev libssl-dev
 birp: cmake
 libimath: cmake
 libopenexr: cmake
 survextrap: r-cran-rstantools
-unsum: cargo rustc
-ciflyr: cargo rustc
 Rfastp: libcurl4-openssl-dev
 EHRmuse: libgsl-dev
 diffHic: libcurl4-openssl-dev
-socratadata: cargo rustc
 pliman: libfftw3-dev
-datefixR: cargo rustc
-gadjid: cargo rustc
-h3o: cargo rustc
 blosc: libblosc-dev
 ragg: libwebp-dev
 otelsdk: cmake protobuf-compiler libprotobuf-dev libcurl4-openssl-dev
-rsamplr: cargo rustc
 XYomics: libboost-dev
 GeneralizedUmatrixGPU: opencl-c-headers ocl-icd-opencl-dev
-RPesto: cargo rustc
-yaml12: cargo rustc
-waysign: cargo rustc
 CausalQueries: libboost-dev
-enderecobr: cargo rustc
 arrow: libcurl4-openssl-dev libssl-dev
-fastgeojson: cargo rustc

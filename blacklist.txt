@@ -105,22 +105,6 @@ clrng
 tm.plugin.mail
 PytrendsLongitudinalR
 #
-# cargo / rustc too old
-rbm25
-SQLFormatteR
-string2path
-fio
-rshift
-arcgisplaces
-fangs
-salso
-xactonomial
-b64
-caviarpd
-astgrepr
-tok
-gadjid
-h3o
 # compilation error under current compilers (cf https://github.com/ge11232002/CNEr/issues/28)
 CNEr
 # current include directory bug (fixed via our PR)
@@ -137,13 +121,9 @@ poseticDataAnalysis
 # hdf5lib
 # needs go
 mangoro
-# need cargo 1.80
-caugi
 # BioC with archived CRAN dependenies
 destiny
 orthogene
-# needs newer cargo: lock file version 4 requires `-Znext-lockfile-bump`
-enderecobr
 # what rswipl and rolog
 mathml
 
