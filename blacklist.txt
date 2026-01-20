@@ -34,8 +34,9 @@ bikeHelpR
 # mdsOpt has FC_LEN issue
 #mdsOpt
 #
-# littler from RSPM is irredeemingly borked (wrong RHOME) (we longer use RSPM / p3m.dev)
-#littler
+# littler from RSPM is irredeemingly borked (wrong RHOME)
+# while we longer use RSPM / p3m.dev building it lacks the /usr/bin/r link
+littler
 #
 # g3viz needs cBioPortalData from BioC which is ... expensive (five more packages...)
 #cBioPortalData
