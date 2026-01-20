@@ -34,8 +34,8 @@ bikeHelpR
 # mdsOpt has FC_LEN issue
 #mdsOpt
 #
-# littler from RSPM is irredeemingly borked (wrong RHOME)
-littler
+# littler from RSPM is irredeemingly borked (wrong RHOME) (we longer use RSPM / p3m.dev)
+#littler
 #
 # g3viz needs cBioPortalData from BioC which is ... expensive (five more packages...)
 #cBioPortalData
@@ -109,8 +109,8 @@ PytrendsLongitudinalR
 CNEr
 # current include directory bug (fixed via our PR)
 # cubature
-# need astgrepr
-flir
+# need astgrepr (which we now have)
+# flir
 # needs lantern via install_torch()
 shrinkGPR
 # borked build (even under 24.04)
