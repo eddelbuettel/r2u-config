@@ -127,4 +127,6 @@ destiny
 orthogene
 # what rswipl and rolog
 mathml
+# requires a binary 'mark', else fails
+RMark
 
