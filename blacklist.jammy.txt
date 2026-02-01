@@ -12,4 +12,6 @@ OmicFlow
 HPO.db
 # compiler error
 BioCro
+# cmake too old
+automerge
 
