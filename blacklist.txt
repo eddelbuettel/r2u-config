@@ -129,4 +129,6 @@ orthogene
 mathml
 # requires a binary 'mark', else fails
 RMark
+# fails to build
+roxigraph
 
