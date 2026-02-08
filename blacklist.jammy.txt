@@ -10,8 +10,8 @@ RcppPlanc
 OmicFlow
 # Bioc packages fails to build (https://github.com/eddelbuettel/r2u-bioc-builder/actions/runs/18974876122/job/54192404122)
 HPO.db
-# compiler error
-BioCro
+# compiler error -- fixed as 2026-02-08
+# BioCro
 # cmake too old
 automerge
 
