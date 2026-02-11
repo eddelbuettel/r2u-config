@@ -336,4 +336,5 @@ GeneralizedUmatrixGPU: opencl-c-headers ocl-icd-opencl-dev
 # CausalQueries: libboost-dev
 arrow: libcurl4-openssl-dev libssl-dev
 automerge: cmake
+EcoCleanR: r-cran-taxize
 
