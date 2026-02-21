@@ -14,4 +14,6 @@ HPO.db
 # BioCro
 # cmake too old
 automerge
+# c++20 issue
+adaR
 
