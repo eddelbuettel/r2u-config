@@ -341,3 +341,4 @@ BayesPET: r-cran-rstantools
 rvMF: libgmp-dev libmpfr-dev
 npRmpi: libopenmpi-dev
 sparselu: libsuitesparse-dev
+rgph: default-jdk
