@@ -6,7 +6,7 @@ xml2: libxml2-dev
 s2: libssl-dev
 openssl: libssl-dev
 systemfonts: libfontconfig1-dev libfreetype-dev
-ragg: libfreetype6-dev libpng-dev libtiff-dev libjpeg-dev 
+ragg: libfreetype6-dev libpng-dev libtiff-dev libjpeg-dev libwebp-dev
 textshaping: libharfbuzz-dev libfribidi-dev 
 gmp: libgmp-dev
 RPostgres: libpq-dev
@@ -329,7 +329,6 @@ EHRmuse: libgsl-dev
 diffHic: libcurl4-openssl-dev
 pliman: libfftw3-dev
 blosc: libblosc-dev
-ragg: libwebp-dev
 otelsdk: cmake protobuf-compiler libprotobuf-dev libcurl4-openssl-dev
 XYomics: libboost-dev
 GeneralizedUmatrixGPU: opencl-c-headers ocl-icd-opencl-dev
