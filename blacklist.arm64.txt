@@ -104,7 +104,7 @@ Rbeast
 dbarts
 stan4bart
 # requires special build of package `unix` ?
-RAppArmor
+# RAppArmor
 # fails build despite download attempt
 minired
 # fails build over 'mm_malloc.h' missing
