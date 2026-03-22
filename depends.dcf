@@ -342,3 +342,4 @@ npRmpi: libopenmpi-dev
 sparselu: libsuitesparse-dev
 rgph: default-jdk
 unix: libapparmor-dev
+fs: cmake libuv1-dev
