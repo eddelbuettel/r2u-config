@@ -118,7 +118,7 @@ pmclust
 # unsupported on arm64
 tiledb
 # compilation error tbb ?
-quanteda.textstats
+# quanteda.textstats
 # off one-off with survival ?
 fastcmprsk
 # odd BH/gmp error?

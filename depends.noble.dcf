@@ -149,4 +149,5 @@ serosv: libtbb-dev
 eDNAjoint: libtbb-dev
 saeHB.TF.beta: libtbb-dev
 # ATACseqQC: r-bioc-genomeinfodb
+quanteda.textstats: libtbb-dev
 
