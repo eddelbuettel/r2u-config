@@ -134,3 +134,5 @@ roxigraph
 # odd build error, possibly unsetting options(repos)
 # cf https://github.com/bayaniazadeh/LabTNSCPSSPackage/issues/1
 LABTNSCPSS
+# Bioc package depending on archived package 'biclust'
+iBBiG
