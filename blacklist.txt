@@ -136,3 +136,6 @@ roxigraph
 LABTNSCPSS
 # Bioc package depending on archived package 'biclust'
 iBBiG
+# Wants R.h but does not find it
+Rdsdp
+
