@@ -138,4 +138,6 @@ LABTNSCPSS
 iBBiG
 # Wants R.h but does not find it
 Rdsdp
+# SIGN fails mysteriously downloading r-cran-globals
+SIGN
 
