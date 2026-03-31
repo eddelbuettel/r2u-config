@@ -140,4 +140,6 @@ iBBiG
 Rdsdp
 # SIGN fails mysteriously downloading r-cran-globals
 SIGN
+# Requires RMark which does not build if one does not have 'mark' executable
+MigConnectivity
 
