@@ -125,7 +125,7 @@ mangoro
 # BioC with archived CRAN dependenies
 destiny
 orthogene
-# what rswipl and rolog
+# wants rswipl and rolog
 mathml
 # requires a binary 'mark', else fails
 RMark
