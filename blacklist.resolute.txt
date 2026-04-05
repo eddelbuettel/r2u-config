@@ -1,0 +1,17 @@
+# weird linking error only under 26.04, reported upstream
+sicp
+# needs Rdsdp (or knockoff needing it)
+clusterMI
+cpi
+hdcuremodels
+kko
+knockoff
+OptimaRegion
+# falls over CVXR::solve (or fungible)
+cdcatR
+cdmTools
+fungible
+VIMPS
+# Rmark does not build
+R2ucare
+
