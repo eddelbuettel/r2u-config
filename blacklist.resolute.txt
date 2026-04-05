@@ -1,5 +1,5 @@
 # weird linking error only under 26.04, reported upstream
-sicp
+scip
 # needs Rdsdp (or knockoff needing it)
 clusterMI
 cpi
