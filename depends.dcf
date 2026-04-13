@@ -344,3 +344,4 @@ rgph: default-jdk
 unix: libapparmor-dev
 fs: cmake libuv1-dev
 scip: cmake
+string2path: libfontconfig1-dev
