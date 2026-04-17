@@ -346,3 +346,5 @@ fs: cmake libuv1-dev
 scip: cmake
 string2path: libfontconfig1-dev
 rip.opencv: libopencv-dev
+unigd: libtiff-dev libcairo2-dev
+
