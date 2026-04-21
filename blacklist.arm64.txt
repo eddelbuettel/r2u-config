@@ -129,7 +129,7 @@ rmarchingcubes
 # includes R_ext/Error.h: No such file (issue ticket filed, now fixed)
 # Rtwobitlib
 # arch not supported
-redatamx
+# redatamx
 # appears to require orte MPI runtime
 kazaam
 # needs dbarts (see above, does not build)
