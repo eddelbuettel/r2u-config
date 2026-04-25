@@ -143,4 +143,5 @@ SIGN
 # Requires RMark which does not build if one does not have 'mark' executable
 MigConnectivity
 multimark
-
+# R 4.6.0 which we do not yet have in the builders
+colleyRstats
