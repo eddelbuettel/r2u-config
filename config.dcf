@@ -1,7 +1,7 @@
 maintainer: Dirk Eddelbuettel <edd@debian.org>
 in_docker: FALSE
 debhelper_compat: 13
-minimum_r_version: 4.5.0
+minimum_r_version: 4.6.0
 r_api_version: 4.0
 bioc_version: 3.22
 debian_policy_version: 4.7.4
