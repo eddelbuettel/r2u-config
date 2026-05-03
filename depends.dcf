@@ -352,3 +352,4 @@ Rhdf5lib: cmake libcurl4-openssl-dev libssl-dev
 rhdf5: libcurl4-openssl-dev libssl-dev
 mzR: libcurl4-openssl-dev libssl-dev
 ncdfFlow: libcurl4-openssl-dev libssl-dev
+flowCore: libcurl4-openssl-dev libssl-dev
