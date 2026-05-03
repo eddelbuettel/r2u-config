@@ -3,7 +3,7 @@ in_docker: FALSE
 debhelper_compat: 13
 minimum_r_version: 4.6.0
 r_api_version: 4.0
-bioc_version: 3.22
+bioc_version: 3.23
 debian_policy_version: 4.7.4
 cache_age_hours_cran_db: 3
 package_repo_preference: cran
