@@ -349,3 +349,4 @@ rip.opencv: libopencv-dev
 unigd: libtiff-dev libcairo2-dev
 talib: cmake
 Rhdf5lib: cmake libcurl4-openssl-dev libssl-dev
+rhdf5: libcurl4-openssl-dev libssl-dev
