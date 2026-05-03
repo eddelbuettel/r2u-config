@@ -17,5 +17,7 @@ automerge
 # c++20 issue
 adaR
 # R 4.6.0 which we do not yet have in the builders
-colleyRstats
+# colleyRstats
+# BioConductor package with C++ issue
+gdsfmt
 

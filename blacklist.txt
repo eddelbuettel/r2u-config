@@ -145,3 +145,5 @@ MigConnectivity
 multimark
 # R 4.6.0 which we do not yet have in the builders
 #colleyRstats
+# BioConductor package claiming no Fortran90 support
+iClusterPlus
