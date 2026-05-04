@@ -20,4 +20,4 @@ adaR
 # colleyRstats
 # BioConductor package with C++ issue
 gdsfmt
-
+survcomp
