@@ -357,4 +357,4 @@ alabaster.base: libcurl4-openssl-dev libssl-dev
 h5mread: libcurl4-openssl-dev libssl-dev
 DropletUtils: libcurl4-openssl-dev libssl-dev
 flowWorkspace: libcurl4-openssl-dev libssl-dev
-
+CytoML: libcurl4-openssl-dev libssl-dev libxml2-dev
