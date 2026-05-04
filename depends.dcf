@@ -356,3 +356,5 @@ flowCore: libcurl4-openssl-dev libssl-dev
 alabaster.base: libcurl4-openssl-dev libssl-dev
 h5mread: libcurl4-openssl-dev libssl-dev
 DropletUtils: libcurl4-openssl-dev libssl-dev
+flowWorkspace: libcurl4-openssl-dev libssl-dev
+
