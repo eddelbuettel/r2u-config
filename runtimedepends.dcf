@@ -1,2 +1,4 @@
 rJava: default-jre
 rmarkdown: pandoc
+Rmpi: libopenmpi-dev
+npRmpi: libopenmpi-dev
