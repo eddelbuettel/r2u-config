@@ -23,4 +23,5 @@ gdsfmt
 survcomp
 # C++20 issue
 reems
-
+# C++20 issue (no std::format)
+RcppSpdlog
