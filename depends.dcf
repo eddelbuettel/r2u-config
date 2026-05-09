@@ -262,7 +262,7 @@ alcyon: cmake
 mcrPioda: libgsl-dev
 MPCR: cmake git
 fCWTr: libfftw3-dev
-rlas: libboost-dev
+rlas: libgdal-dev
 moc.gapbk: libopenmpi-dev
 resultant: libgmp-dev libmpfr-dev
 lnmixsurv: libgsl-dev
