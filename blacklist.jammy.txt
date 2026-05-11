@@ -25,3 +25,4 @@ survcomp
 reems
 # C++20 issue (no std::format)
 RcppSpdlog
+persistence
