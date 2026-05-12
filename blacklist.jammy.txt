@@ -26,3 +26,5 @@ reems
 # C++20 issue (no std::format)
 RcppSpdlog
 persistence
+# needs libonnxruntime-dev which is resolute or later
+nativeORT
