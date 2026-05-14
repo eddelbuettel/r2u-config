@@ -361,3 +361,4 @@ CytoML: libcurl4-openssl-dev libssl-dev libxml2-dev
 gridmicrotex: libfreetype-dev
 roxigraph: libclang-dev libsnappy-dev
 nativeORT: libonnxruntime-dev
+BigDataStatMeth: libcurl4-openssl-dev libssl-dev
