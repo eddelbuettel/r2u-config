@@ -194,5 +194,7 @@ Bestie
 # fails on arm64
 Rwbo
 # ggmlR
+# depends on KSgeneral which is blacklisted above
+HausdorffGoF
 
 
