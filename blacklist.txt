@@ -46,7 +46,7 @@ littler
 deeptrafo
 #
 # brings its own shared libs which doesn't work
-rswipl
+#rswipl
 rolog
 # scater need basilisk which we do not have -- now we do (2023-11-04)
 #scater

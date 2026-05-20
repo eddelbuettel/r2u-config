@@ -212,7 +212,7 @@ spaMM: libgsl-dev
 spate: libfftw3-dev
 econetwork: libgsl-dev
 cgalMeshes: libgmp-dev libmpfr-dev
-rswipl: swi-prolog-core libarchive-dev cmake
+rswipl: cmake libcrypt-dev libarchive-dev cmake
 vol2birdR: libhdf5-dev libproj-dev libgsl-dev
 git2r: libgit2-dev
 dsfa: libboost-dev
