@@ -45,8 +45,8 @@ littler
 # something wrong with reticulate
 deeptrafo
 #
-# brings its own shared libs which doesn't work
-#rswipl
+# brings its own shared libs which doesn't work (and still does not 2026-05-20)
+rswipl
 rolog
 # scater need basilisk which we do not have -- now we do (2023-11-04)
 #scater
