@@ -2,3 +2,5 @@ rJava: default-jre
 rmarkdown: pandoc
 Rmpi: libopenmpi-dev
 DT: libjs-jquery-datatables libjs-jquery-datatables-extensions
+npRmpi: openmpi-bin
+
