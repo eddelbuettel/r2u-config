@@ -364,4 +364,5 @@ nativeORT: libonnxruntime-dev
 BigDataStatMeth: libcurl4-openssl-dev libssl-dev
 impARI: libboost-dev
 RFIF: libfftw3-dev
+ggsql: unixodbc-dev
 
