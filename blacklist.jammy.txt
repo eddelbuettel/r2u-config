@@ -30,3 +30,6 @@ persistence
 nativeORT
 # Boost woes
 RQuantLib
+# C++20 woes
+sparsediff
+Uno
