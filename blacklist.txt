@@ -147,3 +147,5 @@ SIGN
 #colleyRstats
 # BioConductor package claiming no Fortran90 support
 iClusterPlus
+# mvalpha has a bad '-lomp', issue filed
+mvalpha
