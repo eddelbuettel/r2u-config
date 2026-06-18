@@ -367,3 +367,4 @@ RFIF: libfftw3-dev
 ggsql: unixodbc-dev
 telegramR: libssl-dev
 Uno: cmake
+ondisc: libcurl4-openssl-dev libssl-dev
