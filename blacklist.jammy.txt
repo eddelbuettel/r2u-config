@@ -33,3 +33,5 @@ RQuantLib
 # C++20 woes
 sparsediff
 Uno
+# no longer builds
+terra
