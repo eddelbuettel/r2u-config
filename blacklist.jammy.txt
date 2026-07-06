@@ -35,3 +35,5 @@ sparsediff
 Uno
 # no longer builds
 terra
+# needs automerge (see above, it needs newer cmake)
+autosync
