@@ -368,3 +368,5 @@ ggsql: unixodbc-dev
 telegramR: libssl-dev
 Uno: cmake
 ondisc: libcurl4-openssl-dev libssl-dev
+ahull3D: libboost-dev libmpfr-dev libgmp-dev
+
