@@ -103,8 +103,8 @@ clrng
 #bnlearn
 #
 # reticulate now needs a venv
-tm.plugin.mail
-PytrendsLongitudinalR
+#tm.plugin.mail
+#PytrendsLongitudinalR
 #
 # compilation error under current compilers (cf https://github.com/ge11232002/CNEr/issues/28)
 CNEr
