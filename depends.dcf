@@ -373,3 +373,5 @@ Rhpc: libopenmpi-dev
 rmoriebricklayer: libcurl4-openssl-dev libssl-dev
 IntegMultiReg: libgsl-dev
 isodistrreg: cmake
+openfhe.R: cmake
+
