@@ -37,3 +37,5 @@ Uno
 terra
 # needs automerge (see above, it needs newer cmake)
 autosync
+# fails to build (but noble and resolute do)
+birp
