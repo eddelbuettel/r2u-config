@@ -39,3 +39,6 @@ terra
 autosync
 # fails to build (but noble and resolute do)
 birp
+# lacks format header (possibly different C++ issue though)
+scalednap
+
