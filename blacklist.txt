@@ -149,3 +149,6 @@ SIGN
 iClusterPlus
 # mvalpha has a bad '-lomp', issue filed
 # mvalpha
+#
+# Suspect new 'StanHeaders' bites
+postlink
