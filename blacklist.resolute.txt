@@ -10,7 +10,7 @@ OptimaRegion
 # falls over CVXR::solve (or fungible)
 cdcatR
 cdmTools
-fungible
+# fungible
 VIMPS
 # Rmark does not build
 R2ucare
