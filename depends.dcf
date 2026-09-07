@@ -374,4 +374,5 @@ rmoriebricklayer: libcurl4-openssl-dev libssl-dev
 IntegMultiReg: libgsl-dev
 isodistrreg: cmake
 openfhe.R: cmake
+logStirling2: libgmp-dev
 
