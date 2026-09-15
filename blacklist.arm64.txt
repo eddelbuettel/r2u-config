@@ -151,7 +151,7 @@ Rdsdp
 # needs Rfastp from BioC
 inDAGO
 # needs several BioC packages
-SATS
+# SATS
 # at least for now fails to build
 edgemodelr
 # # Bioc with dependency on zlibbioc which is no longer in 3.22 (and bidag for Bestie)
