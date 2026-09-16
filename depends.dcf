@@ -378,4 +378,5 @@ logStirling2: libgmp-dev
 mRpostman: libcurl4-openssl-dev
 ICESat2VegR: libgdal-dev libproj-dev libhdf5-dev
 coinclp: coinor-libclp-dev
+rayrender: libx11-dev
 
