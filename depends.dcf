@@ -381,4 +381,5 @@ coinclp: coinor-libclp-dev
 rayrender: libx11-dev
 smer: libcurl4-openssl-dev libssl-dev
 rgrpc: libgrpc++-dev libprotobuf-dev
+marcxmlr: libxml2-dev
 
