@@ -43,3 +43,6 @@ birp
 scalednap
 # fails to build (but noble and resolute do)
 vrpr
+# fails to build now
+RcppSimdJson
+
