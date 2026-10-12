@@ -45,4 +45,6 @@ scalednap
 vrpr
 # fails to build now
 RcppSimdJson
+# fails to build (size_t)
+AV1R
 
