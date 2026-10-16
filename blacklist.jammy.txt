@@ -47,4 +47,6 @@ vrpr
 RcppSimdJson
 # fails to build (size_t) -- our patch / PR was merged
 # AV1R
+# fails to build (C++20)
+rladybugdb
 
