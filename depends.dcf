@@ -384,3 +384,4 @@ rgrpc: libgrpc++-dev libprotobuf-dev
 marcxmlr: libxml2-dev
 uqsa: libgsl-dev
 xmlrectr: libxml2-dev
+rladybugdb: cmake
