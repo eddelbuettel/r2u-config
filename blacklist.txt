@@ -153,5 +153,5 @@ iClusterPlus
 # Suspect new 'StanHeaders' bites
 postlink
 # blacklist duckdb while we sort out 'dwz' issue for 2.0.0 and later
-duckdb
+# duckdb
 
