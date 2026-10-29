@@ -386,3 +386,4 @@ uqsa: libgsl-dev
 xmlrectr: libxml2-dev
 rladybugdb: cmake
 glpsol: libglpk-dev
+relm: cmake
