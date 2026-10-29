@@ -49,4 +49,6 @@ RcppSimdJson
 # AV1R
 # fails to build (C++20)
 rladybugdb
+# cmake too old
+relm
 
