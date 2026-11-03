@@ -388,4 +388,5 @@ rladybugdb: cmake
 glpsol: libglpk-dev
 relm: cmake
 OECDdata: libxml2-dev
-r2sbml: cmake
+r2sbml: cmake libxml2-dev
+
