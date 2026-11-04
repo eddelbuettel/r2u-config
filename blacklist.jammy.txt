@@ -51,4 +51,5 @@ RcppSimdJson
 rladybugdb
 # cmake too old
 relm
-
+# needs OpenMPI 5
+Rmpi

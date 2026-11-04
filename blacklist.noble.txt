@@ -1,2 +1,5 @@
 # needs libonnxruntime-dev which is resolute or later
 nativeORT
+# needs OpenMPI 5
+Rmpi
+
