@@ -101,7 +101,7 @@
 # OmicFlow
 # "Random" build issue on arm64, and implied because of block (stan4bart)
 Rbeast
-# dbarts
+# dbarts -- builds as of Nov 2026
 stan4bart
 # requires special build of package `unix` ?
 # RAppArmor
@@ -133,13 +133,13 @@ rmarchingcubes
 # appears to require orte MPI runtime
 kazaam
 # needs dbarts (see above, does not build)
-countSTAR
+# countSTAR
 # needs rmarchingcubes (see above, does not build)
 Racmacs
 # needs quanteda.textstats (see above, does not build)
 rainette
 # needs dbarts (see above, does not build)
-bartXViz
+# bartXViz
 # needs dsem (see above, bioc)
 tinyVAST
 # compilation error
