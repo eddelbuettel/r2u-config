@@ -390,4 +390,4 @@ relm: cmake
 OECDdata: libxml2-dev
 r2sbml: cmake libxml2-dev
 BayesTools: jags
-
+bigcurve: libproj-dev
