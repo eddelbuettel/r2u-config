@@ -53,3 +53,5 @@ rladybugdb
 relm
 # needs OpenMPI 5
 Rmpi
+# Fortran compiler too old
+acousticTS
