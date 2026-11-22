@@ -154,5 +154,5 @@ iClusterPlus
 postlink
 # blacklist duckdb while we sort out 'dwz' issue for 2.0.0 and later
 # duckdb
-# need jags 5.0.*
-rjags
+# need jags 5.0.*, now has it
+# rjags

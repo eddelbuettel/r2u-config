@@ -55,3 +55,5 @@ relm
 Rmpi
 # Fortran compiler too old
 acousticTS
+# jags 5.0.* not there yet
+rjags
