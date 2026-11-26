@@ -58,3 +58,5 @@ acousticTS
 # jags 5.0.* not there yet
 rjags
 runjags
+# riot does not build
+riot
