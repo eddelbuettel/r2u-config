@@ -156,3 +156,5 @@ postlink
 # duckdb
 # need jags 5.0.*, now has it
 # rjags
+# BioConductor package still wired to jags 4.* (and Python ?)
+infercnv
