@@ -394,3 +394,4 @@ bigcurve: libproj-dev
 colvR: libnlopt-dev
 SurfaceMesh: libgmp-dev libmpfr-dev libboost-dev
 cvxoptdes: cmake
+ceres: cmake
